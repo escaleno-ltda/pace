@@ -1,0 +1,24 @@
+{
+  "name": "pace",
+  "version": "1.0.2",
+  "description": "Automatic page load progress bar",
+  "main": "pace.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "loading",
+    "load",
+    "pageload",
+    "progress",
+    "activity",
+    "ajax",
+    "spinner",
+    "progress",
+    "bar",
+    "automatic",
+    "client-side"
+  ],
+  "author": "Zack Bloom <zackbloom@gmail.com>",
+  "license": "MIT"
+}
